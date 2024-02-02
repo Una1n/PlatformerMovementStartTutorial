@@ -1,7 +1,7 @@
-# Example Project for 2D Platformer Movement in Godot 4
+# Start of the Project for Modular Movement in a Platformer for Godot 4
 
-This project was made for a tutorial video on Godot 4.
-The video is found here: *insert url*
+This project is the start of the project to work along in.
+The video is found here: https://youtu.be/yzbxoZFsU2Y
 
 ## How to run:
 - Go to Code -> Download ZIP
